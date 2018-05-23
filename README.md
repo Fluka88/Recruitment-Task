@@ -1,7 +1,11 @@
 # Recruitment-Task
-Lista pracowników
+
+## Lista pracowników
+
 Projekt wykonany z pomocą generatora stron statycznych Hugo.
+
 Użyte biblioteki:
--jQuery
--Bootstrap
--Moment.js
+
+* jQuery
+* Bootstrap
+* Moment.js
